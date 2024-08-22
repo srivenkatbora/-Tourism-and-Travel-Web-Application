@@ -1,4 +1,4 @@
-# bhargo
+#  Tourism and Travel Web Application
 This is a personal project based on travel abd tourism 
 reqiurments for the project is 
 1.install flask-pip install flask
